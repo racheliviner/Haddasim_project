@@ -82,14 +82,19 @@
 
 ![plot](./screenshot/9.png)
 כשלוחצים על אחד מהמשתמשים הוא מראה את כל הפרטים שלו:
+![plot](./screenshot/7.png)
+
+הוספת מחלים מקורונה:
+![plot](./screenshot/4.png)
+
+הוספת מחוסן קורונה:
+![plot](./screenshot/5.png)
+
+עריכת פציינט:
+![plot](./screenshot/1.png)
+
+מחיקת פציינט:
+![plot](./screenshot/3.png)
+הוספת פציינט חדש:
 
 ![plot](./screenshot/8.png)
-הוספת מחלים מקורונה:
-![plot](./screenshot/7.png)
-הוספת מחוסן קורונה:
-![plot](./screenshot/4.png)
-עריכת פציינט:
-![plot](./screenshot/5.png)
-מחיקת פציינט:
-![plot](./screenshot/1.png)
-![plot](./screenshot/3.png)
