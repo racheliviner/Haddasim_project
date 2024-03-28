@@ -75,8 +75,11 @@
 | vaccineId    | String        | Yes       | Unique identifier for the vaccine. |
 | vaccineName  | String        | Yes       | Name of the vaccine. |
 
-
-## הערות ##
-
-תיעוד מפורט בנוגע למערכת, כולל הנחות ותלות חיצונית, ניתן למצוא בתוך בסיס הקוד.
-צילומי מסך של ממשק צד הלקוח מצורפים בנספח.
+![plot](./screenshot/6.png)
+![plot](./screenshot/9.png)
+![plot](./screenshot/8.png)
+![plot](./screenshot/7.png)
+![plot](./screenshot/4.png)
+![plot](./screenshot/5.png)
+![plot](./screenshot/1.png)
+![plot](./screenshot/3.png)
