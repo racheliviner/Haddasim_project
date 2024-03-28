@@ -75,11 +75,21 @@
 | vaccineId    | String        | Yes       | Unique identifier for the vaccine. |
 | vaccineName  | String        | Yes       | Name of the vaccine. |
 
+דף כניסה:
+
 ![plot](./screenshot/6.png)
+דף שמראה את כל משתמשי המערכת:
+
 ![plot](./screenshot/9.png)
+כשלוחצים על אחד מהמשתמשים הוא מראה את כל הפרטים שלו:
+
 ![plot](./screenshot/8.png)
+הוספת מחלים מקורונה:
 ![plot](./screenshot/7.png)
+הוספת מחוסן קורונה:
 ![plot](./screenshot/4.png)
+עריכת פציינט:
 ![plot](./screenshot/5.png)
+מחיקת פציינט:
 ![plot](./screenshot/1.png)
 ![plot](./screenshot/3.png)
